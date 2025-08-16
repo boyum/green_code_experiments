@@ -1,0 +1,1 @@
+{\n  "name": "json-parser-tests",\n  "version": "1.0.0",\n  "description": "Testing JSON parsers with Node, Deno, and Bun",\n  "main": "index.js",\n  "scripts": {\n    "test": "echo \"Specify the test script for Node, Deno, or Bun here\""\n  },\n  "author": "",\n  "license": "MIT"\n}
